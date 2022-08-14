@@ -7,14 +7,14 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 110
 
-title: 'Selected conference presentations'
-subtitle: 'Check also the videos which are linked to the recent publications.'
+title: 'Achievements'
+subtitle: "This section shows some recent academic-related achievements."
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
+  page_type: achievements
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria
@@ -39,3 +39,10 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+- Xanadu's [Qhack 2022](https://qhack.ai/) hackathon:
+  - Winner of [Most creative Open Hackathon experiment on Braket](https://aws.amazon.com/blogs/quantum-computing/qhack-2022-highlights-and-amazon-braket-challenge-winners-announced/) in Amazon Braket Challenge
+  - [Third place](https://pennylane.ai/blog/2022/03/qhack-2022-the-one-of-a-kind-celebration-of-quantum-computing/) in IBM Qiskit Challenge
+- Finalist in [BMW Group Quantum Computing Challenge](https://www.press.bmwgroup.com/global/article/detail/T0362463EN/bmw-group-quantum-computing-challenge:-the-winners-have-been-decided?language=en)
+
+You can find more details about the solutions in this web page's Slides section.
