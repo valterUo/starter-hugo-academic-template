@@ -1,5 +1,5 @@
 ---
-title: Studies on multi-controlled CNOT decompositions
+title: Studies on Multi-controlled CNOT Decompositions
 subtitle: 
 
 # Summary for listings and search engines

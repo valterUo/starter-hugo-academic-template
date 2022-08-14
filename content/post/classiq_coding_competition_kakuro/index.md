@@ -1,5 +1,5 @@
 ---
-title: Studies on solving Kakuro puzzle with Grover's algorithm
+title: Studies on Solving Kakuro Puzzle with Grover's Algorithm
 subtitle: 
 
 # Summary for listings and search engines
