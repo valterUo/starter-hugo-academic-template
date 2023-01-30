@@ -42,7 +42,7 @@ design:
 Some of the presentations are in HTML-format utilizing the great [Reveal.js](https://revealjs.com/) framework.
 
 From the newest to the oldest:
-- [Big Data seminar presentation 2023](https://valterUo.github.io/presentations/Quantum_computing_perspective_for_Big_Data_management_2022/index.html)
+- [Big Data seminar presentation 2023](https://valterUo.github.io/presentations/Quantum_computing_perspective_for_Big_Data_management_2023/index.html)
 - [Quantum coding seminar 2022 lesson: Grover's search algorithm](https://valteruo.github.io/presentations/Quantum_coding_seminar_Grover_algorithm/Lesson_5_4_Grover_search_algorithm.pdf)
 - [Quantum coding seminar 2022 lesson: Deutsch-Jozsa & Bernstein-Vazirani algorithms](https://valteruo.github.io/presentations/Quantum_coding_seminar_%20Deutsch-Jozsa_and_Bernstein-Vazirani_algorithms/Lesson_5_2__Deutsch_Jozsa___Bernstein_Vazirani_algorithms.pdf)
 - [Quantum coding seminar 2022 lesson: Deutsch's algorithm](https://valteruo.github.io/presentations/Quantum_coding_seminar_Deutsch_algorithm/Lesson_5_1__Deutsch_algorithm.pdf)
