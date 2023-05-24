@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: 'Selected conference presentations'
-subtitle: 'Check also the videos which are linked to the recent publications.'
+title: 'Selected conference presentations and workshops'
+subtitle: 'Check also the videos linked to the recent publications.'
 
 content:
   # Page type to display. E.g. post, event, publication...

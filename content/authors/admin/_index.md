@@ -77,4 +77,4 @@ email: ""
 highlight_name: true
 ---
 
-Valter is a doctoral researcher in computer science at the University of Helsinki. His research topics include studying quantum computing applications in data management and multi-model databases. Check the recent posts for more details about his research interests!
+I'm a doctoral researcher in computer science at the University of Helsinki. I started my doctoral studies in 2022. My research topics include studying quantum computing applications in data management and multi-model databases. Check the recent papers and posts for more details about my research interests!
